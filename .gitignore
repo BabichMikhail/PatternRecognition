@@ -1,0 +1,5 @@
+*.txt
+*.py
+*.exe
+*.exe~
+static/img/
